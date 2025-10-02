@@ -31,13 +31,13 @@ The circuit converts <b>12V AC</b> (via transformer) to <b>5V DC</b>, employing 
 
 <h2>📷 Project Images</h2>
 <h3>🔹 Schematic Design</h3>
-<img src="Schematic Design.png" alt="Schematic Design" width="700">
+<img src="https://github.com/utkarsh-kumar4/AC-DC-Regulated-Power-Supply-PCB-using-LM7805-in-KiCad/blob/main/Schematic%20Design.png" alt="Schematic Design" width="700">
 
 <h3>🔹 PCB Layout</h3>
-<img src="PCB Layout.png" alt="PCB Layout" width="700">
+<img src="https://github.com/utkarsh-kumar4/AC-DC-Regulated-Power-Supply-PCB-using-LM7805-in-KiCad/blob/main/PCB%20Layout.png" alt="PCB Layout" width="700">
 
 <h3>🔹 3D Board View</h3>
-<img src="3D Board View.png" alt="3D Board View" width="700">
+<img src="https://github.com/utkarsh-kumar4/AC-DC-Regulated-Power-Supply-PCB-using-LM7805-in-KiCad/blob/main/3D%20Board%20View.png" alt="3D Board View" width="700">
 
 <h2>🚀 Applications</h2>
 <ul>
@@ -46,9 +46,5 @@ The circuit converts <b>12V AC</b> (via transformer) to <b>5V DC</b>, employing 
   <li>General-purpose regulated DC source</li>
 </ul>
 
-<h2>📎 Author & Resources</h2>
-<p>
-🔗 <a href="https://github.com/yourusername">Author</a> |  
-🔗 <a href="#">Project Repository</a> |  
-🔗 <a href="https://kicad.org/">KiCad</a>  
-</p>
+## Author 👤
+[Utkarsh Kumar](https://github.com/utkarsh-kumar4) 👨🏻‍💻🎓
